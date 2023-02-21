@@ -27,9 +27,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-top: 1em; }
 p { padding-top: 1.5em; }
 
-a         { color: #00d; text-decoration: none; }
-a:   { color: #00d; }
-a:hover   { color: #00d; text-decoration: underline; }
+a         { color: #866e6e; text-decoration: none; }
+a:   { color: #866e6e; }
+a:hover   { color: #866e6e; text-decoration: underline; }
 
 /* elements */
 h1 { font-size: 2em; line-height: 1.2em;}
